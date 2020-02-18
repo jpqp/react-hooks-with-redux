@@ -1,6 +1,6 @@
 勉強用のメモアプリです。
 TypeScript + React + React Hooks + Redux
-別アプリでJavaScriptだったものをTypeScriptに書き換えた状態です。
+別アプリでJavaScriptだったものをTypeScriptに書き換え版です。
 型の影響でReducer周りがエラーを出力したままの状態。
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
